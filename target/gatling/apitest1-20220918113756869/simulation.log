@@ -1,0 +1,4 @@
+RUN	APITraing.APItest1	apitest1	1663501076869	 	3.6.1
+USER	GetUser	START	1663501077922
+REQUEST		GetUser	1663501077937	1663501078637	KO	jsonPath($.data[1].first_name).find.is(Lindsay), but actually found Janet
+USER	GetUser	END	1663501078697

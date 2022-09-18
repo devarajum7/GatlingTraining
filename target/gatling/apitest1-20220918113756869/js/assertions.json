@@ -1,0 +1,10 @@
+{
+  "simulation": "APITraing.APItest1",
+  "simulationId": "apitest1",
+  "start": 1663501076869,
+  "description": "",
+  "scenarios": ["GetUser"],
+  "assertions": [
+
+  ]
+}
